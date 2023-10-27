@@ -45,6 +45,7 @@
 .a {
   color: #d20202;
   font-size: 18px;
+  cursor: pointer;
 }
 
 .signIn {

@@ -26,7 +26,7 @@ const Home = () => {
     { image: p7 },
   ];
   return (
-    <div className="container">
+    <div className="container" id="/">
       <div className="left">
         <h2 className="heading">Unlock Your Potential in Finance & Banking</h2>
         <h4 className="sub-heading">Transform your dreams into Careers</h4>

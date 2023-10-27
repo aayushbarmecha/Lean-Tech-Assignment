@@ -36,7 +36,7 @@ Ex Co Founder – A.K Research",
     },
   ];
   return (
-    <div className="inst-container">
+    <div className="inst-container" id="instructors">
       <p className="instructor-heading">Meet Your Instructors</p>
       <p className="instructor-subheading">
         Our faculty are all professionally qualified and have rich industry

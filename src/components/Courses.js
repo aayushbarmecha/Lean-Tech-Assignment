@@ -23,7 +23,7 @@ const Courses = () => {
   };
 
   return (
-    <div className="ccontainer">
+    <div className="ccontainer" id="courses">
       <p className="course-heading">Our Courses</p>
       <p className="course-sub-heading">
         All the below courses can be pursued after passing 12th exams and along

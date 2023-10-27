@@ -43,7 +43,7 @@ const WhyChoose = () => {
   ];
 
   return (
-    <div className="features-container">
+    <div className="features-container" id="why-choose">
       <h2 className="features-heading">Why Choose Future Edge</h2>
       <div className="features-top">
         {cardData.map((card, index) => (

@@ -4,7 +4,7 @@ import Test from "./Test";
 
 const Testimonials = () => {
   return (
-    <div className="testimonial">
+    <div className="testimonial" id="testimonials">
       <div className="test-container">
         <p className="testimonial-heading">What our Learners Say</p>
         <p className="testimonial-subheading">

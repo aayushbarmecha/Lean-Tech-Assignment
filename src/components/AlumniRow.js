@@ -9,7 +9,7 @@ import Comp6 from "../assets/compLogo6.png";
 import Comp7 from "../assets/compLogo7.png";
 const Alumni = () => {
   return (
-    <div className="outer">
+    <div className="outer" id="alumni">
       <div className="alumni-container">
         <p className="alumni-heading">Where FutureEdge Alumni Work</p>
         <p className="alumni-subheading">
