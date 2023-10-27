@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&family=Manrope&display=swap');
+
+.image-container, .alumni-container, .alumni-heading, .alumni-subheading {
+    flex-shrink: 0;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: row;
+    width: 1282px;
+    height: 112.36px;
+    justify-content: space-between;
+}
+
+.outer {
+    height: 599px;
+    background: #FAEFEF;
+}
+
+.alumni-container {
+    width: 1293px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 50px auto;
+}
+
+.alumni-heading {
+    width: 1293px;
+    color: #000;
+    text-align: center;
+    font-family: 'Be Vietnam', sans-serif;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 100px;
+}
+
+.alumni-subheading {
+    width: 1271.803px;
+    height: 60.251px;
+    color: #000;
+    text-align: center;
+    font-family: 'Be Vietnam', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

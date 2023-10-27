@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&family=Manrope&display=swap");
+.uheading {
+  width: 783.413px;
+  height: 191.061px;
+  flex-shrink: 0;
+  color: #f03939;
+  text-align: center;
+  font-family: Manrope;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 75px; 
+  letter-spacing: -2.24px;
+}
+.info {
+  width: 736.793px;
+  height: 356.384px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Manrope;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 40px; 
+  letter-spacing: 0.36px;
+}
+.ucontainer {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+  width: 1279px;
+  height: 799px;
+  flex-shrink: 0;
+}
+
+.ultimatecard .card {
+  width: 415px;
+  height: 621px;
+  flex-shrink: 0;
+  border-radius: 30px;
+}
+.ultimatecard .card .ctitle {
+  height: 143px;
+  color: #fff;
+  font-family: Manrope;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+

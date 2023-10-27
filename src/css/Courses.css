@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 100vh;
+}
+
+.ccontainer {
+    display: flex;
+    flex-direction: column;
+    width: 1279px;
+    height: 857px;
+    flex-shrink: 0;
+    justify-content: space-between;
+    margin: 30px auto;
+}
+
+.course-heading, .course-sub-heading {
+    width: 1273.95px;
+    flex-shrink: 0;
+    text-align: center;
+    font-family: Manrope;
+}
+
+.course-heading {
+    height: 61.674px;
+    color: #F03939;
+    font-size: 56px;
+    font-weight: 800;
+    line-height: 75px;
+    letter-spacing: -2.24px;
+    padding: auto;
+}
+
+.course-sub-heading {
+    height: 76.403px;
+    color: #000;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 75px;
+    letter-spacing: 0.96px;
+}
+
+p {
+    margin: 0.3rem;
+}

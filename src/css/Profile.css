@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&family=Manrope&display=swap");
+.profile-card {
+  display: flex;
+  width: 326px;
+  height: 674px;
+  padding: 0px 0px 0px 4px;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+}
+.aman {
+  width: 210.277px;
+  height: 204.879px;
+  flex-shrink: 0;
+  border-radius: 169.032px;
+}
+.profile-name {
+  width: 314.71px;
+  height: 58.998px;
+  flex-shrink: 0;
+  color: #000;
+  text-align: center;
+  font-family: Be Vietnam;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.profile-data {
+  padding: 0px 30px;
+  width: 290.013px;
+  height: 119.868px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Be Vietnam;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.profile-position {
+  width: 291.807px;
+  color: #000;
+  text-align: center;
+  font-family: Be Vietnam;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px; 
+  padding: 10px;
+}
+.profile-company {
+  width: 291.807px;
+  height: 60.734px;
+  flex-shrink: 0;
+  color: #000;
+  text-align: center;
+  font-family: Be Vietnam;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin: 0%;
+}

@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+
+.card {
+  border: 1px solid #ccc;
+  width: 340px;
+  height: 574px;
+  flex-shrink: 0;
+  text-align: left;
+  border-radius: 30px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 30px;
+}
+
+.dbutton,
+.bbutton {
+  width: 223.669px;
+  height: 51.998px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Manrope;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  border-radius: 5px;
+  border: none;
+  margin: 10px;
+}
+
+.dbutton {
+  background-color: #407bef;
+}
+
+.bbutton {
+  background-color: #ff4820;
+  width: 158.062px;
+  height: 44.39px;
+}
+
+.ctitle {
+  height: 160.559px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Manrope;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  background-color: rgba(102, 23, 23, 0.82);
+  background-blend-mode: hue;
+  text-align: left;
+  border-radius: 30px 30px 0px 0px;
+  padding: 10px 30px;
+}

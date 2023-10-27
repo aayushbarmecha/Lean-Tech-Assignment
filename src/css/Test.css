@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&family=Manrope&display=swap");
+.testimonial-card {
+  display: flex;
+  width: 291px;
+  height: 589px;
+  padding: 0px 0px 0px 10.078px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  flex-shrink: 0;
+}
+.abhi {
+  width: 169.032px;
+  height: 153.028px;
+  flex-shrink: 0;
+  border-radius: 169.032px;
+}
+.test-name {
+  width: 280.922px;
+  height: 51.558px;
+  flex-shrink: 0;
+  color: #000;
+  text-align: center;
+  font-family: Be Vietnam;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.testimonial-data {
+  padding: 0px 30px;
+  max-width: 258.877px;
+  height: 244.909px;
+  flex-shrink: 0;
+  color: #000;
+  text-align: center;
+  font-family: Be Vietnam;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.position {
+  max-width: 263.203px;
+  height: 63.794px;
+  flex-shrink: 0;
+  color: #000;
+  text-align: center;
+  font-family: Be Vietnam;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding: 10px;
+}
+.company {
+  width: 260.478px;
+  height: 53.074px;
+  flex-shrink: 0;
+  color: #000;
+  text-align: center;
+  font-family: Be Vietnam;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin: 0%;
+}

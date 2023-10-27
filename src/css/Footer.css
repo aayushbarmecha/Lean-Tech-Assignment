@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&family=Manrope&display=swap');
+.footer-heading{
+    max-width: 752.544px;
+height: 163.54px;
+flex-shrink: 0;
+color: #440303;
+text-align: center;
+font-family: Manrope;
+font-size: 60px;
+font-style: normal;
+font-weight: 800;
+letter-spacing: -2.4px;
+margin: auto;
+padding: 40px;
+}
+.footer-button{
+    width: 233.965px;
+height: 67.229px;
+flex-shrink: 0;
+background-color: #FF4820;
+color: #FFF;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 100px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+align-items: center;
+justify-content: center;
+border: none;
+}
+.footer{
+    background-color: #440303;
+    color: #FFF;
+    padding: 30px 100px;
+}
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+  }  
+.footer-right {
+    display: flex;
+  }
+  .column{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+  }
+  .column a,p{
+      color: #FFF;
+      font-family: Be Vietnam;
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      margin-bottom: 20px;
+
+    }
+    .column-top{
+      color: #FFF;
+  font-family: Be Vietnam;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 20px;
+    }
+    .footer-left,.copyright{
+        margin-left: 50px;
+    }
+    .fa{
+        color: #FFF;
+    }
+    .bottom-footer{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+    }
+    .footer-icons {
+        
+        float: right;
+        display: flex;
+        align-items: center;
+        margin: 0px 100px;
+
+    }
+    
+    .footer-icons a {
+
+        margin-left: 10px; 
+    }

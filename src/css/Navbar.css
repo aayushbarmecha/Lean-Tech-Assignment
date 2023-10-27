@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+
+.navbar {
+  width: 1183px;
+  height: 58px;
+  flex-shrink: 0;
+  margin: 0 auto; 
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.nav-logo,
+.nav-items,
+.signIn {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration: none;
+}
+
+.nav-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #d20202;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.nav-menu,
+.nav-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.nav-menu {
+  list-style: none;
+  gap: 50px;
+}
+
+.nav-items,
+.a {
+  color: #d20202;
+  font-size: 18px;
+}
+
+.signIn {
+  color: #d20202;
+  margin-right: 10px;
+}
+
+.signUp {
+  background-color: #d20202;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 5px;
+}

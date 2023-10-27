@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&family=Manrope&display=swap");
+
+.inst-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px auto;
+    width: 1279px;
+    height: 835.944px;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  
+  .instructor-heading, .instructor-subheading {
+    width: 1242.43px;
+    flex-shrink: 0;
+    color: #f03939;
+    text-align: center;
+    font-family: Be Vietnam;
+  }
+  
+  .instructor-heading {
+    height: 69.536px;
+    font-size: 56px;
+    font-weight: 700;
+    padding: auto;
+  }
+  
+  .instructor-subheading {
+    height: 47.609px;
+    font-size: 24px;
+    font-weight: 400;
+  }
+  
+  .instructor-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 100vh;
+    margin-top: 50px;
+  }
