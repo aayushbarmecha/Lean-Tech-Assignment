@@ -8,7 +8,6 @@ import Navbar from './components/Navbar';
 import Testimonials from './components/Testimonials';
 import UltimateCourse from './components/UltimateCourse';
 import WhyChoose from './components/WhyChoose';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
